@@ -1,0 +1,36 @@
+User:
+[
+  {
+    "name": "Olivia",
+    "id": 99,
+    "age":46
+  },
+  {
+    "name": "Jonas",
+    "id": 100,
+    "age": 30
+  },
+   {
+    "name": "Bruno",
+    "id":101 ,
+    "age": 28
+  }
+],
+Flower:
+ [
+  {
+    "userId": 99,
+    "id": 1,
+    "favoritFlower":"rosas"
+  },
+  {
+    "userId": 100,
+    "id": 2,
+    "favoritFlower": "margaridas"
+  },
+   {
+    "userId": 101,
+    "id":3 ,
+    "favoritFlower":"tulipas"
+  }
+]
