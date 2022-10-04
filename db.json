@@ -1,4 +1,5 @@
-User:
+{
+  "User":
 [
   {
     "name": "Olivia",
@@ -16,7 +17,7 @@ User:
     "age": 28
   }
 ],
-Flower:
+"Flower":
  [
   {
     "userId": 99,
@@ -34,3 +35,4 @@ Flower:
     "favoritFlower":"tulipas"
   }
 ]
+}
